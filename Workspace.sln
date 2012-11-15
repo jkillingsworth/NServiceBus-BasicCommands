@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMessages", "src\MyMessages\MyMessages.csproj", "{7010732A-D0DB-4418-942C-6C8D82A08DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySender", "src\MySender\MySender.csproj", "{D0C50FA6-43C2-44BF-AF10-A2452B848CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyReceiver", "src\MyReceiver\MyReceiver.csproj", "{F3494E5B-51A4-406C-BC7A-9BA5B01C8240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7010732A-D0DB-4418-942C-6C8D82A08DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7010732A-D0DB-4418-942C-6C8D82A08DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7010732A-D0DB-4418-942C-6C8D82A08DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7010732A-D0DB-4418-942C-6C8D82A08DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C50FA6-43C2-44BF-AF10-A2452B848CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C50FA6-43C2-44BF-AF10-A2452B848CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C50FA6-43C2-44BF-AF10-A2452B848CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C50FA6-43C2-44BF-AF10-A2452B848CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3494E5B-51A4-406C-BC7A-9BA5B01C8240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3494E5B-51A4-406C-BC7A-9BA5B01C8240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3494E5B-51A4-406C-BC7A-9BA5B01C8240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3494E5B-51A4-406C-BC7A-9BA5B01C8240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
