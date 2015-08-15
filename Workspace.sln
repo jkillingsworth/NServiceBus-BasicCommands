@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMessages", "src\MyMessages\MyMessages.csproj", "{7010732A-D0DB-4418-942C-6C8D82A08DA3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySender", "src\MySender\MySender.csproj", "{D0C50FA6-43C2-44BF-AF10-A2452B848CEB}"
